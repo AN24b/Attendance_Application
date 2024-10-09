@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+        <item>
+            <shape android:shape="rectangle">
+                <gradient
+                    android:startColor="#FBE0E9"
+                    android:endColor="#A0E9F3"
+                    android:angle="45" /> <!-- The angle defines the direction of the gradient -->
+            </shape>
+        </item>
+    </layer-list>
+
